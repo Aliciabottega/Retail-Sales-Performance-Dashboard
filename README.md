@@ -40,12 +40,11 @@
   - Who are the top-performing salespersons?
   - How do product categories perform across different regions?
  
-   To answer these questions, I utilized PivotTables enhanced with slicers for interactivity.  While PivotTables effectively highlight individual insights, they can be limited when viewed in isolation.
-   To provide a broader, more connected perspective of the data, I developed an interactive dashboard that can be explored and used for further analysis.
+   To answer these questions, I utilized PivotTables enhanced with slicers for interactivity.  While PivotTables effectively highlight individual insights, they can be          limited when viewed in isolation. To provide a broader, more connected perspective of the data, I developed an interactive dashboard that can be explored and used for        further analysis.
 
   ### Results
 
-  From the analysis, I found out the following :
+   From the analysis, I found out the following :
   
   - Sales dipped in mid-2023, followed by a recovery in Q3.
   - North region contributed the most to total sales .
@@ -60,7 +59,7 @@
  
   ### Limitations
 
-  At first, the dataset was cluttered with duplicates and confusing abbreviations. Once cleaned and standardized, it became far more readable and ready for analysis and visualization.
+  At first, the dataset was cluttered with duplicates and confusing abbreviations. Once cleaned and standardized, it became far more readable and ready for analysis and        visualization.
                                                                                                             
 
 
